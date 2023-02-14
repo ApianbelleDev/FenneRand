@@ -1,5 +1,5 @@
 # About
-EZRand is a simple random number generator written in rust. I created this
+FenneRand is a simple random number generator written in rust. I created this
 as a fun project, and this has literally *no* point in existing, but is here
 if you want to mess around with it
 
